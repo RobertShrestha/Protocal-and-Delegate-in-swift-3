@@ -1,4 +1,4 @@
-# Protocol-and-Delegate-in-swift-3
+# Protocol and Delegate in swift 3
 
 A simple swift 3 project that give a idea about Sending data from one view controller to another view controller without using segue 
 
